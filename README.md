@@ -4,4 +4,3 @@
 "# averages 50 minutes in playtime. The map follows a "hellish" theme, comprimising of a dark enviorment with a flashlight for the player to use. Available to download on" 
 "# Steam Workshop." 
 
-Youtube link: https://youtu.be/wGIupRpVW7I  
